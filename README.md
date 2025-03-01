@@ -8,6 +8,7 @@ Total Number of Calls – Tracks overall call volume over a selected period.
 Total Call Duration – Displays call durations in both hours and minutes.
 Average Call Duration – Measures efficiency by calculating the average call length.
 Response Time Percentage – Analyzes how quickly calls are answered within a predefined time frame.
+
 Visualizations
 Total Calls by Day (Column Chart) – Identifies daily call trends.
 Total Calls by State (Filled Map Chart) – Visualizes call distribution by region.
@@ -19,6 +20,8 @@ Grid View
 Displays all call details in a tabular format.
 Allows users to filter and export data for deeper analysis.
 Tech Stack
+
+
 Power BI – Data visualization and dashboard creation.
 SQL – Data extraction and transformation (if applicable).
 Excel/CSV – Data source for call center records.
